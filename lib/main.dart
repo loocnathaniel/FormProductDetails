@@ -14,10 +14,11 @@ class MyApp extends StatelessWidget {
       title: 'Form Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        useMaterial3: true, // Modern Material Design
+        useMaterial3: true, 
       ),
-      home: const FormScreen(), // We'll create this next
+      home: const FormScreen(), 
     );
   }
 }
+
 
